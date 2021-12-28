@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <EditText
+        android:id="@+id/dialogGroup_pin"
+        android:layout_width="381dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView6"
+        android:layout_marginTop="1dp"
+        android:height="50dp"
+        android:ems="10"
+        android:hint="* * * * "
+        android:inputType="text|numberPassword"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="381dp"
+        android:layout_height="27dp"
+        android:height="50dp"
+        android:fontFamily="sans-serif"
+        android:fontFeatureSettings="@string/bottom_sheet_behavior"
+        android:includeFontPadding="false"
+        android:text="PIN:"
+        android:textIsSelectable="false"
+        android:textSize="20sp" />
+
+
+</RelativeLayout>

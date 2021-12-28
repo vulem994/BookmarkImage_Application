@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2805128205128205" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/drawable/ic_menu_camera.xml" value="0.3828125" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.3828125" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.3828125" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/drawable/side_nav_bar.xml" value="0.3828125" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/activity_add_group.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/activity_add_image.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/activity_group_gallery.xml" value="0.33" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/activity_login.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/activity_user_dashboard.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/activity_user_dashboard2.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/app_bar_user_dashboard.xml" value="0.26875" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/app_bar_user_dashboard2.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/content_user_dashboard.xml" value="0.2046875" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/content_user_dashboard2.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/fragment_gallery.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/fragment_home.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/fragment_image_control.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/fragment_slideshow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/fragment_user_dashboard.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/group_list_item_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/image_list_item_row.xml" value="0.33" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/imageviewer_page.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/layout_bookmark_image_group_dialog.xml" value="0.3274336283185841" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/nav_header_user_dashboard.xml" value="0.3546195652173913" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/nav_header_user_dashboard2.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/sample_image__custo_view.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/layout/sample_image__custom_view.xml" value="0.25" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/menu/activity_dashboard_drawer.xml" value="0.26875" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/menu/user_dashboard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/menu/user_dashboard2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/vulem/AndroidStudioProjects/BookmarkImage/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2805128205128205" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
